@@ -1,0 +1,11 @@
+Make sure your script runs without errors. Catch exceptions and report errors to the user in a meaningful way.
+For example, non-number guesses should be handled with an exception.
+
+As a player of the game, I should see a some kind of text header, welcome or game intro message.
+A random number should be chosen that is within the range.
+As a player of the game, I should be continuously prompted for a guess until I get it right.
+As a player of the game, after an incorrect guess I should be told if my answer is higher or lower than the answer, so that I can narrow down my guesses.
+As a player of the game, after the game ends I should be shown my number of attempts at guessing.
+When the game ends, an ending message is shown to the player.
+
+# Notes. I started by reading the instructions carefully, and then going step by step creating what was required to make the game run smoothly. I created 3 different functions to help my project stand out a little from the rest. One specifically  for the introduction,

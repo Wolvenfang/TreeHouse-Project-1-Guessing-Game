@@ -8,4 +8,4 @@ As a player of the game, after an incorrect guess I should be told if my answer 
 As a player of the game, after the game ends I should be shown my number of attempts at guessing.
 When the game ends, an ending message is shown to the player.
 
-# Notes. I started by reading the instructions carefully, and then going step by step creating what was required to make the game run smoothly. I created 3 different functions to help my project stand out a little from the rest. One specifically  for the introduction,
+# Notes. I started by reading the instructions carefully, and then going step by step creating what was required to make the game run smoothly. I created 3 different functions to help my project stand out a little from the rest. One specifically for the introduction, a second one for the handling of the high score, and a third to make sure I get the correct input from the user so the game starts no matter what they type(really happy about that hehe). After I start the game with a while loop, so it goes on until the parameters are meet. I went for the exceeds expectations option.
